@@ -19,6 +19,4 @@ func main() {
 		log.Fatal(erro)
 	}
 
-	fmt.Println("Fim da execução!!")
-
 }
